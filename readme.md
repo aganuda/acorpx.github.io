@@ -5,3 +5,4 @@ some attempts in front-end
 ## Links
 1. [Static landing Mountains Travel](http://acorpx.ru/Mountains)
 2. [Simple react todo app (work in progress)](http://acorpx.ru/react-todo/public)
+3. [React-redux app for issues looking](http://acorpx.ru/issues-looker/public)
